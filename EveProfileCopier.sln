@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EveProfileCopier", "EveProfileCopier\EveProfileCopier.csproj", "{39BA0BBE-15C2-4D7A-825E-1A77A4BC0835}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39BA0BBE-15C2-4D7A-825E-1A77A4BC0835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39BA0BBE-15C2-4D7A-825E-1A77A4BC0835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39BA0BBE-15C2-4D7A-825E-1A77A4BC0835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39BA0BBE-15C2-4D7A-825E-1A77A4BC0835}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C410CBE-71E4-478C-8DD1-95E9C44CA938}
+	EndGlobalSection
+EndGlobal
