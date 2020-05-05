@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
@@ -7,6 +7,7 @@ namespace EveProfileCopier
 {
     class Program
     {
+        // Feature
         const string UserProfileFilePattern = "core_user_([0-9]*).dat";
         const string CharacterProfileFilePattern = "core_char_([0-9]*).dat";
 
